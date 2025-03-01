@@ -35,9 +35,9 @@
 ---
 
 ## 📷 Capturas Referenciales
-
+<!--
 [![Planificación Docente](https://static.justboil.me/templates/one/repo-tailwind-vue.png)](https://justboil.github.io/admin-one-vue-tailwind/)
 
----
-
 ## 🚀 Estructura del Proyecto
+---
+-->

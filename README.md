@@ -1,6 +1,6 @@
 ## [Proyecto Planificación Docente](https://justboil.me/tailwind-admin-templates/free-vue-dashboard/)
 
-**Versión 1.0.0**
+![Versión](https://img.shields.io/badge/Versión-1.0.0-green)
 
 ### Tailwind 3.x Vue 3.x with Vite or Nuxt or Laravel
 

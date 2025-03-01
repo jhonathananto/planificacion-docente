@@ -1,4 +1,4 @@
-# [Admin One &mdash; Free Vue 3.x Tailwind 3.x Admin Dashboard with dark mode](https://justboil.me/tailwind-admin-templates/free-vue-dashboard/)
+## [Proyecto Planificación Docente](https://justboil.me/tailwind-admin-templates/free-vue-dashboard/)
 
 [![version](https://img.shields.io/github/v/release/justboil/admin-one-vue-tailwind)](https://justboil.me/tailwind-admin-templates/free-vue-dashboard/)  [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://justboil.me/tailwind-admin-templates/free-vue-dashboard/)
 

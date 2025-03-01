@@ -1,9 +1,4 @@
-## [Proyecto Planificación Docente](https://justboil.me/tailwind-admin-templates/free-vue-dashboard/)
-
-![Versión](https://img.shields.io/badge/Versión-1.0.0-green)
-
-# 📚 Planificación Docente - IST Ismael Pérez Pazmiño
-
+## [Proyecto Planificación Docente - IST Ismael Pérez Pazmiño]()
 ![Versión](https://img.shields.io/badge/Versión-1.0.0-green)  
 ![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-orange)
 

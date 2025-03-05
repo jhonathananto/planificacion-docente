@@ -1,0 +1,113 @@
+{
+  "_id": "II_PA_2024",
+  "nombre": "II PA 2024",
+  "fechaInicio": "2024-10-07",
+  "fechaFin": "2025-03-31",
+  "meses": [
+    {
+      "nombre": "Octubre",
+      "anio": 2024,
+      "dias": [
+        {
+          "numeroDia": 16,
+          "diaSemana": "Miércoles",
+          "actividades": [
+            {
+              "nombre": "Inauguración del periodo académico",
+              "tipo": "Académico",
+              "descripcion": "Inauguración del II PA 2024"
+            },
+            {
+              "nombre": "Inducción (Bienestar Estudiantil/Gestor Acceso)",
+              "tipo": "Inducción",
+              "descripcion": "..."
+            }
+          ],
+          "festividades": [
+            {
+              "nombre": "Día Mundial de la Alimentación",
+              "tipo": "Fecha importante",
+              "descripcion": "Celebración del Día Mundial de la Alimentación"
+            },
+            {
+              "nombre": "Fundación de Durán",
+              "tipo": "Fecha importante",
+              "descripcion": "..."
+            },
+            {
+              "nombre": "Día Internacional del Jefe",
+              "tipo": "Fecha importante",
+              "descripcion": "..."
+            },
+            {
+              "nombre": "Día del Agricultor y Ganadero",
+              "tipo": "Fecha importante",
+              "descripcion": "..."
+            },
+            {
+              "nombre": "Día Mundial del Pan",
+              "tipo": "Fecha importante",
+              "descripcion": "..."
+            }
+          ]
+        },
+        {
+          "numeroDia": 17,
+          "diaSemana": "Jueves",
+          "actividades": [
+            {
+              "nombre": "Inducción (Bienestar Estudiantil/Gestor Acceso)",
+              "tipo": "Inducción",
+              "descripcion": "..."
+            }
+          ],
+          "festividades": [
+            {
+              "nombre": "Día Mundial contra el Dolor",
+              "tipo": "Fecha importante",
+              "descripcion": "..."
+            },
+            {
+              "nombre": "Día Internacional para la Erradicación de la Pobreza",
+              "tipo": "Fecha importante",
+              "descripcion": "..."
+            }
+          ]
+        },
+        {
+          "numeroDia": 18,
+          "diaSemana": "Viernes",
+          "actividades": [
+            {
+              "nombre": "Inducción (Bienestar Estudiantil/Gestor Acceso)",
+              "tipo": "Inducción",
+              "descripcion": "..."
+            }
+          ],
+          "festividades": [
+            {
+              "nombre": "Día Internacional de los Pronombres",
+              "tipo": "Fecha importante",
+              "descripcion": "..."
+            },
+            {
+              "nombre": "Día Mundial de Protección de la Naturaleza",
+              "tipo": "Fecha importante",
+              "descripcion": "..."
+            },
+            {
+              "nombre": "Independencia de Portoviejo",
+              "tipo": "Fecha importante",
+              "descripcion": "..."
+            },
+            {
+              "nombre": "Día Mundial de la Menopausia",
+              "tipo": "Fecha importante",
+              "descripcion": "..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
